@@ -1,0 +1,26 @@
+/****************************************************************		
+		List<Artist> artists = artistDB.queryArtists(5);
+		if(artists == null) {
+			System.out.println("No artists!");
+			return;
+		}
+//		
+		for(Artist artist : artists) {
+			System.out.println("ID: " + artist.getId() + ", Name: " + artist.getName());
+		}
+		
+		String artist = "Aerosmith";
+		String notArtist = "PhillyJoBob";
+//		int numOfAlbums = datasource.queryNumberOfAlbums(artist);
+//		if(numOfAlbums > 0) {
+//			System.out.println(artist + " has " + numOfAlbums + " album(s) in store.");
+//		}
+//		else {
+//			System.out.println("Artist not in store.");
+//		}
+		
+//		List<Album> albums = datasource.queryAlbumsByArtist(artist, 1);
+//		for(Album album : albums) {
+//			System.out.println(album.getName());
+//		}
+*********************************************************************/	
